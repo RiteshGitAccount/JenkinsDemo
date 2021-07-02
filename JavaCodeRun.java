@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class JavaCodeRun{
 
      public static void main(String []args){
         System.out.println("Hello test World");
