@@ -2,6 +2,6 @@ public class JavaCodeRun{
 
      public static void main(String []args){
        
-           System.out.println("Hello 9th July trigger Check Test 500");
+           System.out.println("Hello 9th July trigger Check Test 250");
      }
 }
