@@ -2,7 +2,7 @@ public class JavaCodeRun{
 
      public static void main(String []args){
 
-        System.out.println("Hello 22 June 2023 Test ing");
+        System.out.println("Hello 22 June 2023 Testing");
        
            System.out.println("Hello 27 Oct 2021. fggrfgrfg ");
 
