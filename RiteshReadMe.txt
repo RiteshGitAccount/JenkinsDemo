@@ -3,7 +3,7 @@ pipeline {
 
     stages {
         stage('Build') { 
-            steps {  
+            steps {    
                 echo 'Building.. 8th March 2022 Sucessfully'
             }
             
