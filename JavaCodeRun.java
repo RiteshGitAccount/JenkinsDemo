@@ -6,7 +6,7 @@ public class JavaCodeRun{
        
            System.out.println("Hello 27 Oct 2021.  ");
 
-           System.out.println("Hello 27 Oct 2021.  ");
+           
 
      }
 }
