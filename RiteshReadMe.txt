@@ -2,7 +2,7 @@ pipeline {
     agent anyone
 
     stages {
-        stage('Build') {   
+        stage('Build') { 
             steps {
                 echo 'Building.. 8th March 2022 Sucessfully'
             }
